@@ -17,6 +17,8 @@
 
 # 与我交流
 
-第一个自己的github项目，如果对有何指教，欢迎联系
+第一个自己的github项目，如果对有何指教，欢迎联系：
+
 e-mail：helei5200@126.com
+
 blog: http://blog.csdn.net/hel12he
