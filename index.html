@@ -39,6 +39,7 @@
 			dom_id: "swagger-ui-container",
 			supportedSubmitMethods: ['get', 'post', 'put', 'delete', 'patch'],
 			onComplete: function(swaggerApi, swaggerUi){
+				window.SwaggerTranslator.translate();
 				if(typeof initOAuth == "function"){
 					initOAuth({
 						clientId: "your-client-id",
@@ -55,9 +56,6 @@
 			},
 			onFailure: function(data){
 				log("Unable to Load SwaggerUI");
-			},
-			onComplete: function(data){
-				window.SwaggerTranslator.translate();
 			},
 			docExpansion: "none",
 			apisSorter: "alpha",
