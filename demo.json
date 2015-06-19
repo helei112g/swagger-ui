@@ -18,7 +18,7 @@
     "tags": [
         {
             "name": "pet",
-            "description": "关于你宠物的所有事情！",
+            "description": "有关你宠物的所有事情！",
             "externalDocs": {
                 "description": "Find out more",
                 "url": "http://swagger.io"
