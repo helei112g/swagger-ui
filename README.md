@@ -12,7 +12,7 @@
 
 # 使用方法
 
-1. 直接clone该项目到本地，运行index.html文件，课获得我的demo样式
+1. 直接clone该项目到本地，运行index.html文件，可获得我的demo样式
 2. 根据自身实际情况修改demo.json文件，已完成自身api接口文档的书写
 3. 如果json文件是在线的，请求改index.html文件中`url = "http://192.168.1.8/api/demo.json";`，将online url地址写在这里。
 
